@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
+
+html{
+	font-family: sans-serif;
+}	
+
+.container {
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	height: 100vh;
+	background-color: #09283E;
+}
+
+.container h1{
+    color: #FFF;
+    margin-top: 15px;
+}
